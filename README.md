@@ -1,2 +1,2 @@
-# Resume-CV-Design-N19
-How to create the Resume/CV Design using HTML and CSS
+# 个人简历
+HTML CSS 制作的个人简历
